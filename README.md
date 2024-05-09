@@ -1,5 +1,5 @@
 # Hello World 👋
-#### I am an Android Developer in the making
+### My name is Kostas and I am interested in Android Development. 
 
 Skills: Java / Kotlin / JS / HTML / CSS
 

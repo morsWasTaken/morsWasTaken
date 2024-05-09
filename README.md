@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Konstantinos
 #### I am an Android Developer in the making
-![I am an Android Developer in the making](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an Android Developer in the making]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

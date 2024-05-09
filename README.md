@@ -1,5 +1,5 @@
 # Hello World 👋
-### My name is Kostas and I am interested in Android Development. 
+### My name is Kostas and I am interested in Kotlin/Java projects. My aim is to become a successful Android Developer.
 
 Skills: Java / Kotlin / JS / HTML / CSS
 

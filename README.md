@@ -1,5 +1,5 @@
-# Hello World 👋
-#### My name is Kostas and I am interested in Kotlin/Java projects. My aim is to become a successful Android Developer. I'm currently learning Kotlin/Jetpack Compose UI toolkit. I’m looking to collaborate on different projects in order to gain some experience 
+### Hi there 👋, my name is Kostas
+#### I am interested in Kotlin/Java projects. My aim is to become a successful Android Developer. I'm currently learning Kotlin/Jetpack Compose UI toolkit. I’m looking to collaborate on different projects in order to gain some experience 
 
 
 ## Hard Skills

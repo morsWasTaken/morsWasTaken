@@ -19,9 +19,10 @@
 - Eager to meet new people
 - Friendly
 
-## Language
+## Spoken Languages
 - Greek
 - English
 - German
 
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morsWasTaken)](https://github.com/anuraghazra/github-readme-stats)  

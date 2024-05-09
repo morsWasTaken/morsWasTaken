@@ -1,5 +1,5 @@
-# HELLO WORLD
-### Hi there 👋, My name is Konstantinos
+# Hello World 👋
+### My name is Kostas and I am from Greece
 #### I am an Android Developer in the making
 
 Skills: Java / Kotlin / JS / HTML / CSS

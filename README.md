@@ -15,4 +15,7 @@
 - Team Player
 - Dedicated learner
 - Active listener
+- Respectful
+- Eager to meet new people
+- Friendly
   

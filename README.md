@@ -18,4 +18,9 @@
 - Respectful
 - Eager to meet new people
 - Friendly
+
+## Language
+- Greek
+- English
+- German
   
